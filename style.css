@@ -200,5 +200,8 @@ a:hover {
     .card-3 {
         margin-top: 20px;
     }
+    .card {
+        height: 150px;
+    }
     
 }
